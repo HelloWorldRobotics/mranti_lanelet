@@ -7691,6 +7691,16 @@
     <tag k="local_y" v="233.187"/>
     <tag k="ele" v="1.8372"/>
   </node>
+  <node id="16322" lat="" lon="">
+    <tag k="local_x" v="-4.2211"/>
+    <tag k="local_y" v="-0.6569"/>
+    <tag k="ele" v="-2.0903"/>
+  </node>
+  <node id="16323" lat="" lon="">
+    <tag k="local_x" v="-3.7818"/>
+    <tag k="local_y" v="4.5658"/>
+    <tag k="ele" v="-2.0903"/>
+  </node>
   <way id="302">
     <nd ref="298"/>
     <nd ref="11483"/>
@@ -7760,20 +7770,6 @@
     <nd ref="4508"/>
     <nd ref="4509"/>
     <nd ref="4458"/>
-    <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
-  </way>
-  <way id="4841">
-    <nd ref="4839"/>
-    <nd ref="4840"/>
-    <nd ref="15080"/>
-    <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
-  </way>
-  <way id="4844">
-    <nd ref="4842"/>
-    <nd ref="4843"/>
-    <nd ref="15083"/>
     <tag k="type" v="line_thin"/>
     <tag k="subtype" v="solid"/>
   </way>
@@ -10153,6 +10149,20 @@
     <tag k="type" v="line_thin"/>
     <tag k="subtype" v="solid"/>
   </way>
+  <way id="16325">
+    <nd ref="16322"/>
+    <nd ref="4843"/>
+    <nd ref="15083"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="16327">
+    <nd ref="16323"/>
+    <nd ref="4840"/>
+    <nd ref="15080"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
   <way id="10490">
     <nd ref="10485"/>
     <nd ref="10486"/>
@@ -10283,17 +10293,6 @@
     <tag k="location" v="urban"/>
     <tag k="one_way" v="yes"/>
     <tag k="turn_direction" v="right"/>
-  </relation>
-  <relation id="4845">
-    <member type="way" role="left" ref="4844"/>
-    <member type="way" role="right" ref="4841"/>
-    <member type="relation" role="regulatory_element" ref="16286"/>
-    <member type="relation" role="regulatory_element" ref="16293"/>
-    <tag k="type" v="lanelet"/>
-    <tag k="subtype" v="road"/>
-    <tag k="speed_limit" v="5"/>
-    <tag k="location" v="urban"/>
-    <tag k="one_way" v="yes"/>
   </relation>
   <relation id="5576">
     <member type="way" role="left" ref="5575"/>
@@ -11162,6 +11161,15 @@
     <tag k="location" v="urban"/>
     <tag k="one_way" v="no"/>
   </relation>
+  <relation id="16328">
+    <member type="way" role="left" ref="16325"/>
+    <member type="way" role="right" ref="16327"/>
+    <tag k="type" v="lanelet"/>
+    <tag k="subtype" v="road"/>
+    <tag k="speed_limit" v="5"/>
+    <tag k="location" v="urban"/>
+    <tag k="one_way" v="yes"/>
+  </relation>
   <relation id="10491">
     <member type="way" role="refers" ref="10490"/>
     <tag k="type" v="regulatory_element"/>
@@ -11217,13 +11225,5 @@
     <member type="way" role="refers" ref="15043"/>
     <tag k="type" v="regulatory_element"/>
     <tag k="subtype" v="speed_bump"/>
-  </relation>
-  <relation id="16286">
-    <tag k="type" v="regulatory_element"/>
-    <tag k="subtype" v="traffic_sign"/>
-  </relation>
-  <relation id="16293">
-    <tag k="type" v="regulatory_element"/>
-    <tag k="subtype" v="traffic_sign"/>
   </relation>
 </osm>
