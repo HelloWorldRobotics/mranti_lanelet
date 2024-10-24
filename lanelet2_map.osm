@@ -11749,7 +11749,7 @@
     <member type="way" role="right" ref="19016"/>
     <tag k="type" v="lanelet"/>
     <tag k="subtype" v="road"/>
-    <tag k="speed_limit" v="10"/>
+    <tag k="speed_limit" v="5"/>
     <tag k="location" v="urban"/>
     <tag k="one_way" v="yes"/>
     <tag k="turn_direction" v="right"/>
