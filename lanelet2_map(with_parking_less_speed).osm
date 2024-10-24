@@ -8121,16 +8121,6 @@
     <tag k="local_y" v="-84.3909"/>
     <tag k="ele" v="-0.26"/>
   </node>
-  <node id="16860" lat="" lon="">
-    <tag k="local_x" v="-18.8635"/>
-    <tag k="local_y" v="13.6206"/>
-    <tag k="ele" v="-2.9834"/>
-  </node>
-  <node id="16861" lat="" lon="">
-    <tag k="local_x" v="-15.1435"/>
-    <tag k="local_y" v="12.9543"/>
-    <tag k="ele" v="-2.9447"/>
-  </node>
   <way id="302">
     <nd ref="298"/>
     <nd ref="11483"/>
@@ -8312,6 +8302,30 @@
     <tag k="type" v="line_thin"/>
     <tag k="subtype" v="solid"/>
   </way>
+  <way id="8397">
+    <nd ref="8395"/>
+    <nd ref="8396"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="8400">
+    <nd ref="8398"/>
+    <nd ref="8399"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="8405">
+    <nd ref="8388"/>
+    <nd ref="8398"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="8406">
+    <nd ref="8391"/>
+    <nd ref="8395"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
   <way id="8422">
     <nd ref="8399"/>
     <nd ref="8415"/>
@@ -8329,6 +8343,110 @@
   <way id="8597">
     <nd ref="1487"/>
     <nd ref="8596"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="8712">
+    <nd ref="8710"/>
+    <nd ref="8711"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="8715">
+    <nd ref="8713"/>
+    <nd ref="8714"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="8749">
+    <nd ref="8706"/>
+    <nd ref="8717"/>
+    <nd ref="8718"/>
+    <nd ref="8719"/>
+    <nd ref="8720"/>
+    <nd ref="8721"/>
+    <nd ref="8722"/>
+    <nd ref="8723"/>
+    <nd ref="8724"/>
+    <nd ref="8725"/>
+    <nd ref="8726"/>
+    <nd ref="8727"/>
+    <nd ref="8728"/>
+    <nd ref="8729"/>
+    <nd ref="8730"/>
+    <nd ref="8731"/>
+    <nd ref="8732"/>
+    <nd ref="8713"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="8750">
+    <nd ref="8705"/>
+    <nd ref="8733"/>
+    <nd ref="8734"/>
+    <nd ref="8735"/>
+    <nd ref="8736"/>
+    <nd ref="8737"/>
+    <nd ref="8738"/>
+    <nd ref="8739"/>
+    <nd ref="8740"/>
+    <nd ref="8741"/>
+    <nd ref="8742"/>
+    <nd ref="8743"/>
+    <nd ref="8744"/>
+    <nd ref="8745"/>
+    <nd ref="8746"/>
+    <nd ref="8747"/>
+    <nd ref="8748"/>
+    <nd ref="8710"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="8763">
+    <nd ref="8761"/>
+    <nd ref="8762"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="8766">
+    <nd ref="8764"/>
+    <nd ref="8765"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="8792">
+    <nd ref="8714"/>
+    <nd ref="8768"/>
+    <nd ref="8769"/>
+    <nd ref="8770"/>
+    <nd ref="8771"/>
+    <nd ref="8772"/>
+    <nd ref="8773"/>
+    <nd ref="8774"/>
+    <nd ref="8775"/>
+    <nd ref="8776"/>
+    <nd ref="8777"/>
+    <nd ref="8778"/>
+    <nd ref="8779"/>
+    <nd ref="8764"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="8793">
+    <nd ref="8711"/>
+    <nd ref="8780"/>
+    <nd ref="8781"/>
+    <nd ref="8782"/>
+    <nd ref="8783"/>
+    <nd ref="8784"/>
+    <nd ref="8785"/>
+    <nd ref="8786"/>
+    <nd ref="8787"/>
+    <nd ref="8788"/>
+    <nd ref="8789"/>
+    <nd ref="8790"/>
+    <nd ref="8791"/>
+    <nd ref="8761"/>
     <tag k="type" v="line_thin"/>
     <tag k="subtype" v="solid"/>
   </way>
@@ -8368,6 +8486,252 @@
     <tag k="type" v="line_thin"/>
     <tag k="subtype" v="solid"/>
   </way>
+  <way id="8845">
+    <nd ref="8843"/>
+    <nd ref="8844"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="8848">
+    <nd ref="8846"/>
+    <nd ref="8847"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="8855">
+    <nd ref="8853"/>
+    <nd ref="8854"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="8858">
+    <nd ref="8856"/>
+    <nd ref="8857"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="8874">
+    <nd ref="8847"/>
+    <nd ref="8860"/>
+    <nd ref="8861"/>
+    <nd ref="8862"/>
+    <nd ref="8863"/>
+    <nd ref="8864"/>
+    <nd ref="8865"/>
+    <nd ref="8866"/>
+    <nd ref="8856"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="8875">
+    <nd ref="8844"/>
+    <nd ref="8867"/>
+    <nd ref="8868"/>
+    <nd ref="8869"/>
+    <nd ref="8870"/>
+    <nd ref="8871"/>
+    <nd ref="8872"/>
+    <nd ref="8873"/>
+    <nd ref="8853"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="8879">
+    <nd ref="8877"/>
+    <nd ref="8878"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="8882">
+    <nd ref="8880"/>
+    <nd ref="8881"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="8932">
+    <nd ref="8857"/>
+    <nd ref="8884"/>
+    <nd ref="8885"/>
+    <nd ref="8886"/>
+    <nd ref="8887"/>
+    <nd ref="8888"/>
+    <nd ref="8889"/>
+    <nd ref="8890"/>
+    <nd ref="8891"/>
+    <nd ref="8892"/>
+    <nd ref="8893"/>
+    <nd ref="8894"/>
+    <nd ref="8895"/>
+    <nd ref="8896"/>
+    <nd ref="8897"/>
+    <nd ref="8898"/>
+    <nd ref="8899"/>
+    <nd ref="8900"/>
+    <nd ref="8901"/>
+    <nd ref="8902"/>
+    <nd ref="8903"/>
+    <nd ref="8904"/>
+    <nd ref="8905"/>
+    <nd ref="8906"/>
+    <nd ref="8907"/>
+    <nd ref="8880"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="8933">
+    <nd ref="8854"/>
+    <nd ref="8908"/>
+    <nd ref="8909"/>
+    <nd ref="8910"/>
+    <nd ref="8911"/>
+    <nd ref="8912"/>
+    <nd ref="8913"/>
+    <nd ref="8914"/>
+    <nd ref="8915"/>
+    <nd ref="8916"/>
+    <nd ref="8917"/>
+    <nd ref="8918"/>
+    <nd ref="8919"/>
+    <nd ref="8920"/>
+    <nd ref="8921"/>
+    <nd ref="8922"/>
+    <nd ref="8923"/>
+    <nd ref="8924"/>
+    <nd ref="8925"/>
+    <nd ref="8926"/>
+    <nd ref="8927"/>
+    <nd ref="8928"/>
+    <nd ref="8929"/>
+    <nd ref="8930"/>
+    <nd ref="8931"/>
+    <nd ref="8877"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="8937">
+    <nd ref="8935"/>
+    <nd ref="8936"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="8940">
+    <nd ref="8938"/>
+    <nd ref="8939"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="8942">
+    <nd ref="8881"/>
+    <nd ref="8938"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="8943">
+    <nd ref="8878"/>
+    <nd ref="8935"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="8947">
+    <nd ref="8945"/>
+    <nd ref="16438"/>
+    <nd ref="8946"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="8950">
+    <nd ref="8948"/>
+    <nd ref="16437"/>
+    <nd ref="8949"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="8995">
+    <nd ref="8993"/>
+    <nd ref="8994"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="8998">
+    <nd ref="8996"/>
+    <nd ref="8997"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="9000">
+    <nd ref="8949"/>
+    <nd ref="8996"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="9001">
+    <nd ref="8946"/>
+    <nd ref="8993"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="9005">
+    <nd ref="9003"/>
+    <nd ref="9004"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="9008">
+    <nd ref="9006"/>
+    <nd ref="9007"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="9048">
+    <nd ref="8997"/>
+    <nd ref="9010"/>
+    <nd ref="9011"/>
+    <nd ref="9012"/>
+    <nd ref="9013"/>
+    <nd ref="9014"/>
+    <nd ref="9015"/>
+    <nd ref="9016"/>
+    <nd ref="9017"/>
+    <nd ref="9018"/>
+    <nd ref="9019"/>
+    <nd ref="9020"/>
+    <nd ref="9021"/>
+    <nd ref="9022"/>
+    <nd ref="9023"/>
+    <nd ref="9024"/>
+    <nd ref="9025"/>
+    <nd ref="9026"/>
+    <nd ref="9027"/>
+    <nd ref="9028"/>
+    <nd ref="9006"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="9049">
+    <nd ref="8994"/>
+    <nd ref="9029"/>
+    <nd ref="9030"/>
+    <nd ref="9031"/>
+    <nd ref="9032"/>
+    <nd ref="9033"/>
+    <nd ref="9034"/>
+    <nd ref="9035"/>
+    <nd ref="9036"/>
+    <nd ref="9037"/>
+    <nd ref="9038"/>
+    <nd ref="9039"/>
+    <nd ref="9040"/>
+    <nd ref="9041"/>
+    <nd ref="9042"/>
+    <nd ref="9043"/>
+    <nd ref="9044"/>
+    <nd ref="9045"/>
+    <nd ref="9046"/>
+    <nd ref="9047"/>
+    <nd ref="9003"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
   <way id="9053">
     <nd ref="9051"/>
     <nd ref="9052"/>
@@ -8380,6 +8744,210 @@
     <tag k="type" v="line_thin"/>
     <tag k="subtype" v="solid"/>
   </way>
+  <way id="9064">
+    <nd ref="9007"/>
+    <nd ref="9058"/>
+    <nd ref="9059"/>
+    <nd ref="9060"/>
+    <nd ref="9052"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="9065">
+    <nd ref="9004"/>
+    <nd ref="9061"/>
+    <nd ref="9062"/>
+    <nd ref="9063"/>
+    <nd ref="9055"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="9069">
+    <nd ref="9067"/>
+    <nd ref="9068"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="9072">
+    <nd ref="9070"/>
+    <nd ref="9071"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="9080">
+    <nd ref="9051"/>
+    <nd ref="9074"/>
+    <nd ref="9075"/>
+    <nd ref="9076"/>
+    <nd ref="9070"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="9081">
+    <nd ref="9054"/>
+    <nd ref="9077"/>
+    <nd ref="9078"/>
+    <nd ref="9079"/>
+    <nd ref="9067"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="9085">
+    <nd ref="9083"/>
+    <nd ref="9084"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="9088">
+    <nd ref="9086"/>
+    <nd ref="9087"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="9128">
+    <nd ref="9071"/>
+    <nd ref="9090"/>
+    <nd ref="9091"/>
+    <nd ref="9092"/>
+    <nd ref="9093"/>
+    <nd ref="9094"/>
+    <nd ref="9095"/>
+    <nd ref="9096"/>
+    <nd ref="9097"/>
+    <nd ref="9098"/>
+    <nd ref="9099"/>
+    <nd ref="9100"/>
+    <nd ref="9101"/>
+    <nd ref="9102"/>
+    <nd ref="9103"/>
+    <nd ref="9104"/>
+    <nd ref="9105"/>
+    <nd ref="9106"/>
+    <nd ref="9107"/>
+    <nd ref="9108"/>
+    <nd ref="9086"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="9129">
+    <nd ref="9068"/>
+    <nd ref="9109"/>
+    <nd ref="9110"/>
+    <nd ref="9111"/>
+    <nd ref="9112"/>
+    <nd ref="9113"/>
+    <nd ref="9114"/>
+    <nd ref="9115"/>
+    <nd ref="9116"/>
+    <nd ref="9117"/>
+    <nd ref="9118"/>
+    <nd ref="9119"/>
+    <nd ref="9120"/>
+    <nd ref="9121"/>
+    <nd ref="9122"/>
+    <nd ref="9123"/>
+    <nd ref="9124"/>
+    <nd ref="9125"/>
+    <nd ref="9126"/>
+    <nd ref="9127"/>
+    <nd ref="9083"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="9133">
+    <nd ref="9131"/>
+    <nd ref="9132"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="9136">
+    <nd ref="9134"/>
+    <nd ref="9135"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="9168">
+    <nd ref="9087"/>
+    <nd ref="9138"/>
+    <nd ref="9139"/>
+    <nd ref="9140"/>
+    <nd ref="9141"/>
+    <nd ref="9142"/>
+    <nd ref="9143"/>
+    <nd ref="9144"/>
+    <nd ref="9145"/>
+    <nd ref="9146"/>
+    <nd ref="9147"/>
+    <nd ref="9148"/>
+    <nd ref="9149"/>
+    <nd ref="9150"/>
+    <nd ref="9151"/>
+    <nd ref="9152"/>
+    <nd ref="9134"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="9169">
+    <nd ref="9084"/>
+    <nd ref="9153"/>
+    <nd ref="9154"/>
+    <nd ref="9155"/>
+    <nd ref="9156"/>
+    <nd ref="9157"/>
+    <nd ref="9158"/>
+    <nd ref="9159"/>
+    <nd ref="9160"/>
+    <nd ref="9161"/>
+    <nd ref="9162"/>
+    <nd ref="9163"/>
+    <nd ref="9164"/>
+    <nd ref="9165"/>
+    <nd ref="9166"/>
+    <nd ref="9167"/>
+    <nd ref="9131"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="9192">
+    <nd ref="9135"/>
+    <nd ref="9178"/>
+    <nd ref="9179"/>
+    <nd ref="9180"/>
+    <nd ref="9181"/>
+    <nd ref="9182"/>
+    <nd ref="9183"/>
+    <nd ref="9184"/>
+    <nd ref="9174"/>
+    <nd ref="9175"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="9193">
+    <nd ref="9132"/>
+    <nd ref="9185"/>
+    <nd ref="9186"/>
+    <nd ref="9187"/>
+    <nd ref="9188"/>
+    <nd ref="9189"/>
+    <nd ref="9190"/>
+    <nd ref="9191"/>
+    <nd ref="9171"/>
+    <nd ref="9172"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="9273">
+    <nd ref="9271"/>
+    <nd ref="9272"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="9276">
+    <nd ref="9274"/>
+    <nd ref="9275"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
   <way id="9278">
     <nd ref="9247"/>
     <nd ref="9274"/>
@@ -8389,6 +8957,58 @@
   <way id="9279">
     <nd ref="9244"/>
     <nd ref="9271"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="9283">
+    <nd ref="9281"/>
+    <nd ref="9282"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="9286">
+    <nd ref="9284"/>
+    <nd ref="9285"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="9304">
+    <nd ref="9275"/>
+    <nd ref="9288"/>
+    <nd ref="9289"/>
+    <nd ref="9290"/>
+    <nd ref="9291"/>
+    <nd ref="9292"/>
+    <nd ref="9293"/>
+    <nd ref="9294"/>
+    <nd ref="9295"/>
+    <nd ref="9284"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="9305">
+    <nd ref="9272"/>
+    <nd ref="9296"/>
+    <nd ref="9297"/>
+    <nd ref="9298"/>
+    <nd ref="9299"/>
+    <nd ref="9300"/>
+    <nd ref="9301"/>
+    <nd ref="9302"/>
+    <nd ref="9303"/>
+    <nd ref="9281"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="9373">
+    <nd ref="9371"/>
+    <nd ref="9372"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="9376">
+    <nd ref="9374"/>
+    <nd ref="9375"/>
     <tag k="type" v="line_thin"/>
     <tag k="subtype" v="solid"/>
   </way>
@@ -8455,6 +9075,18 @@
     <nd ref="9551"/>
     <nd ref="9553"/>
     <nd ref="9555"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="9556">
+    <nd ref="9375"/>
+    <nd ref="9542"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="9557">
+    <nd ref="9372"/>
+    <nd ref="9539"/>
     <tag k="type" v="line_thin"/>
     <tag k="subtype" v="solid"/>
   </way>
@@ -8876,6 +9508,18 @@
     <tag k="type" v="line_thin"/>
     <tag k="subtype" v="solid"/>
   </way>
+  <way id="10558">
+    <nd ref="10555"/>
+    <nd ref="9374"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="10560">
+    <nd ref="10556"/>
+    <nd ref="9371"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
   <way id="10564">
     <nd ref="10533"/>
     <nd ref="9390"/>
@@ -8911,6 +9555,12 @@
     <tag k="type" v="line_thin"/>
     <tag k="subtype" v="solid"/>
   </way>
+  <way id="10565">
+    <nd ref="10562"/>
+    <nd ref="10555"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
   <way id="10566">
     <nd ref="10534"/>
     <nd ref="9431"/>
@@ -8943,6 +9593,12 @@
     <nd ref="9458"/>
     <nd ref="9459"/>
     <nd ref="10563"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="10567">
+    <nd ref="10563"/>
+    <nd ref="10556"/>
     <tag k="type" v="line_thin"/>
     <tag k="subtype" v="solid"/>
   </way>
@@ -9128,6 +9784,46 @@
     <tag k="type" v="line_thin"/>
     <tag k="subtype" v="solid"/>
   </way>
+  <way id="12345">
+    <nd ref="9285"/>
+    <nd ref="9314"/>
+    <nd ref="9315"/>
+    <nd ref="9316"/>
+    <nd ref="9317"/>
+    <nd ref="9318"/>
+    <nd ref="9319"/>
+    <nd ref="9320"/>
+    <nd ref="9321"/>
+    <nd ref="9322"/>
+    <nd ref="9323"/>
+    <nd ref="9324"/>
+    <nd ref="9310"/>
+    <nd ref="10906"/>
+    <nd ref="12120"/>
+    <nd ref="12343"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="12347">
+    <nd ref="9282"/>
+    <nd ref="9325"/>
+    <nd ref="9326"/>
+    <nd ref="9327"/>
+    <nd ref="9328"/>
+    <nd ref="9329"/>
+    <nd ref="9330"/>
+    <nd ref="9331"/>
+    <nd ref="9332"/>
+    <nd ref="9333"/>
+    <nd ref="9334"/>
+    <nd ref="9335"/>
+    <nd ref="9307"/>
+    <nd ref="10903"/>
+    <nd ref="12130"/>
+    <nd ref="12344"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
   <way id="12352">
     <nd ref="12343"/>
     <nd ref="12121"/>
@@ -9205,6 +9901,12 @@
     <tag k="type" v="line_thin"/>
     <tag k="subtype" v="solid"/>
   </way>
+  <way id="12401">
+    <nd ref="12398"/>
+    <nd ref="8846"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
   <way id="12402">
     <nd ref="11993"/>
     <nd ref="12050"/>
@@ -9219,6 +9921,12 @@
     <nd ref="12056"/>
     <nd ref="8838"/>
     <nd ref="12399"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="12403">
+    <nd ref="12399"/>
+    <nd ref="8843"/>
     <tag k="type" v="line_thin"/>
     <tag k="subtype" v="solid"/>
   </way>
@@ -9486,6 +10194,31 @@
     <tag k="type" v="line_thin"/>
     <tag k="subtype" v="solid"/>
   </way>
+  <way id="15455">
+    <nd ref="15083"/>
+    <nd ref="15212"/>
+    <nd ref="15213"/>
+    <nd ref="15214"/>
+    <nd ref="15215"/>
+    <nd ref="15216"/>
+    <nd ref="15217"/>
+    <nd ref="15158"/>
+    <nd ref="15193"/>
+    <nd ref="15194"/>
+    <nd ref="15195"/>
+    <nd ref="15196"/>
+    <nd ref="15197"/>
+    <nd ref="15198"/>
+    <nd ref="15199"/>
+    <nd ref="15200"/>
+    <nd ref="13837"/>
+    <nd ref="11252"/>
+    <nd ref="11253"/>
+    <nd ref="11302"/>
+    <nd ref="15453"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
   <way id="15456">
     <nd ref="15453"/>
     <nd ref="11257"/>
@@ -9545,6 +10278,36 @@
     <nd ref="11597"/>
     <nd ref="11598"/>
     <nd ref="13437"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="15457">
+    <nd ref="15080"/>
+    <nd ref="15218"/>
+    <nd ref="15219"/>
+    <nd ref="15220"/>
+    <nd ref="15221"/>
+    <nd ref="15222"/>
+    <nd ref="15223"/>
+    <nd ref="15157"/>
+    <nd ref="15201"/>
+    <nd ref="15202"/>
+    <nd ref="15203"/>
+    <nd ref="15204"/>
+    <nd ref="15205"/>
+    <nd ref="15206"/>
+    <nd ref="15207"/>
+    <nd ref="15208"/>
+    <nd ref="13838"/>
+    <nd ref="11269"/>
+    <nd ref="11270"/>
+    <nd ref="11271"/>
+    <nd ref="11272"/>
+    <nd ref="11303"/>
+    <nd ref="11274"/>
+    <nd ref="11275"/>
+    <nd ref="11276"/>
+    <nd ref="15454"/>
     <tag k="type" v="line_thin"/>
     <tag k="subtype" v="solid"/>
   </way>
@@ -9712,6 +10475,20 @@
   <way id="16320">
     <nd ref="16318"/>
     <nd ref="16319"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="16325">
+    <nd ref="16322"/>
+    <nd ref="4843"/>
+    <nd ref="15083"/>
+    <tag k="type" v="line_thin"/>
+    <tag k="subtype" v="solid"/>
+  </way>
+  <way id="16327">
+    <nd ref="16323"/>
+    <nd ref="4840"/>
+    <nd ref="15080"/>
     <tag k="type" v="line_thin"/>
     <tag k="subtype" v="solid"/>
   </way>
@@ -9956,555 +10733,6 @@
     <tag k="type" v="parking_space"/>
     <tag k="width" v="2.5"/>
   </way>
-  <way id="16814">
-    <nd ref="8857"/>
-    <nd ref="8884"/>
-    <nd ref="8885"/>
-    <nd ref="8886"/>
-    <nd ref="8887"/>
-    <nd ref="8888"/>
-    <nd ref="8889"/>
-    <nd ref="8890"/>
-    <nd ref="8891"/>
-    <nd ref="8892"/>
-    <nd ref="8893"/>
-    <nd ref="8894"/>
-    <nd ref="8895"/>
-    <nd ref="8896"/>
-    <nd ref="8897"/>
-    <nd ref="8898"/>
-    <nd ref="8899"/>
-    <nd ref="8900"/>
-    <nd ref="8901"/>
-    <nd ref="8902"/>
-    <nd ref="8903"/>
-    <nd ref="8904"/>
-    <nd ref="8905"/>
-    <nd ref="8906"/>
-    <nd ref="8907"/>
-    <nd ref="8880"/>
-    <nd ref="8881"/>
-    <nd ref="8938"/>
-    <nd ref="8939"/>
-    <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
-  </way>
-  <way id="16815">
-    <nd ref="8854"/>
-    <nd ref="8908"/>
-    <nd ref="8909"/>
-    <nd ref="8910"/>
-    <nd ref="8911"/>
-    <nd ref="8912"/>
-    <nd ref="8913"/>
-    <nd ref="8914"/>
-    <nd ref="8915"/>
-    <nd ref="8916"/>
-    <nd ref="8917"/>
-    <nd ref="8918"/>
-    <nd ref="8919"/>
-    <nd ref="8920"/>
-    <nd ref="8921"/>
-    <nd ref="8922"/>
-    <nd ref="8923"/>
-    <nd ref="8924"/>
-    <nd ref="8925"/>
-    <nd ref="8926"/>
-    <nd ref="8927"/>
-    <nd ref="8928"/>
-    <nd ref="8929"/>
-    <nd ref="8930"/>
-    <nd ref="8931"/>
-    <nd ref="8877"/>
-    <nd ref="8878"/>
-    <nd ref="8935"/>
-    <nd ref="8936"/>
-    <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
-  </way>
-  <way id="16820">
-    <nd ref="12398"/>
-    <nd ref="8846"/>
-    <nd ref="8847"/>
-    <nd ref="8860"/>
-    <nd ref="8861"/>
-    <nd ref="8862"/>
-    <nd ref="8863"/>
-    <nd ref="8864"/>
-    <nd ref="8865"/>
-    <nd ref="8866"/>
-    <nd ref="8856"/>
-    <nd ref="8857"/>
-    <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
-  </way>
-  <way id="16821">
-    <nd ref="12399"/>
-    <nd ref="8843"/>
-    <nd ref="8844"/>
-    <nd ref="8867"/>
-    <nd ref="8868"/>
-    <nd ref="8869"/>
-    <nd ref="8870"/>
-    <nd ref="8871"/>
-    <nd ref="8872"/>
-    <nd ref="8873"/>
-    <nd ref="8853"/>
-    <nd ref="8854"/>
-    <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
-  </way>
-  <way id="16824">
-    <nd ref="8714"/>
-    <nd ref="8768"/>
-    <nd ref="8769"/>
-    <nd ref="8770"/>
-    <nd ref="8771"/>
-    <nd ref="8772"/>
-    <nd ref="8773"/>
-    <nd ref="8774"/>
-    <nd ref="8775"/>
-    <nd ref="8776"/>
-    <nd ref="8777"/>
-    <nd ref="8778"/>
-    <nd ref="8779"/>
-    <nd ref="8764"/>
-    <nd ref="8765"/>
-    <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
-  </way>
-  <way id="16825">
-    <nd ref="8711"/>
-    <nd ref="8780"/>
-    <nd ref="8781"/>
-    <nd ref="8782"/>
-    <nd ref="8783"/>
-    <nd ref="8784"/>
-    <nd ref="8785"/>
-    <nd ref="8786"/>
-    <nd ref="8787"/>
-    <nd ref="8788"/>
-    <nd ref="8789"/>
-    <nd ref="8790"/>
-    <nd ref="8791"/>
-    <nd ref="8761"/>
-    <nd ref="8762"/>
-    <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
-  </way>
-  <way id="16826">
-    <nd ref="8706"/>
-    <nd ref="8717"/>
-    <nd ref="8718"/>
-    <nd ref="8719"/>
-    <nd ref="8720"/>
-    <nd ref="8721"/>
-    <nd ref="8722"/>
-    <nd ref="8723"/>
-    <nd ref="8724"/>
-    <nd ref="8725"/>
-    <nd ref="8726"/>
-    <nd ref="8727"/>
-    <nd ref="8728"/>
-    <nd ref="8729"/>
-    <nd ref="8730"/>
-    <nd ref="8731"/>
-    <nd ref="8732"/>
-    <nd ref="8713"/>
-    <nd ref="8714"/>
-    <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
-  </way>
-  <way id="16827">
-    <nd ref="8705"/>
-    <nd ref="8733"/>
-    <nd ref="8734"/>
-    <nd ref="8735"/>
-    <nd ref="8736"/>
-    <nd ref="8737"/>
-    <nd ref="8738"/>
-    <nd ref="8739"/>
-    <nd ref="8740"/>
-    <nd ref="8741"/>
-    <nd ref="8742"/>
-    <nd ref="8743"/>
-    <nd ref="8744"/>
-    <nd ref="8745"/>
-    <nd ref="8746"/>
-    <nd ref="8747"/>
-    <nd ref="8748"/>
-    <nd ref="8710"/>
-    <nd ref="8711"/>
-    <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
-  </way>
-  <way id="16828">
-    <nd ref="8388"/>
-    <nd ref="8398"/>
-    <nd ref="8399"/>
-    <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
-  </way>
-  <way id="16829">
-    <nd ref="8391"/>
-    <nd ref="8395"/>
-    <nd ref="8396"/>
-    <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
-  </way>
-  <way id="16830">
-    <nd ref="8948"/>
-    <nd ref="16437"/>
-    <nd ref="8949"/>
-    <nd ref="8996"/>
-    <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
-  </way>
-  <way id="16831">
-    <nd ref="8945"/>
-    <nd ref="16438"/>
-    <nd ref="8946"/>
-    <nd ref="8993"/>
-    <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
-  </way>
-  <way id="16832">
-    <nd ref="8996"/>
-    <nd ref="8997"/>
-    <nd ref="9010"/>
-    <nd ref="9011"/>
-    <nd ref="9012"/>
-    <nd ref="9013"/>
-    <nd ref="9014"/>
-    <nd ref="9015"/>
-    <nd ref="9016"/>
-    <nd ref="9017"/>
-    <nd ref="9018"/>
-    <nd ref="9019"/>
-    <nd ref="9020"/>
-    <nd ref="9021"/>
-    <nd ref="9022"/>
-    <nd ref="9023"/>
-    <nd ref="9024"/>
-    <nd ref="9025"/>
-    <nd ref="9026"/>
-    <nd ref="9027"/>
-    <nd ref="9028"/>
-    <nd ref="9006"/>
-    <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
-  </way>
-  <way id="16833">
-    <nd ref="8993"/>
-    <nd ref="8994"/>
-    <nd ref="9029"/>
-    <nd ref="9030"/>
-    <nd ref="9031"/>
-    <nd ref="9032"/>
-    <nd ref="9033"/>
-    <nd ref="9034"/>
-    <nd ref="9035"/>
-    <nd ref="9036"/>
-    <nd ref="9037"/>
-    <nd ref="9038"/>
-    <nd ref="9039"/>
-    <nd ref="9040"/>
-    <nd ref="9041"/>
-    <nd ref="9042"/>
-    <nd ref="9043"/>
-    <nd ref="9044"/>
-    <nd ref="9045"/>
-    <nd ref="9046"/>
-    <nd ref="9047"/>
-    <nd ref="9003"/>
-    <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
-  </way>
-  <way id="16834">
-    <nd ref="9006"/>
-    <nd ref="9007"/>
-    <nd ref="9058"/>
-    <nd ref="9059"/>
-    <nd ref="9060"/>
-    <nd ref="9052"/>
-    <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
-  </way>
-  <way id="16835">
-    <nd ref="9003"/>
-    <nd ref="9004"/>
-    <nd ref="9061"/>
-    <nd ref="9062"/>
-    <nd ref="9063"/>
-    <nd ref="9055"/>
-    <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
-  </way>
-  <way id="16846">
-    <nd ref="9051"/>
-    <nd ref="9074"/>
-    <nd ref="9075"/>
-    <nd ref="9076"/>
-    <nd ref="9070"/>
-    <nd ref="9071"/>
-    <nd ref="9090"/>
-    <nd ref="9091"/>
-    <nd ref="9092"/>
-    <nd ref="9093"/>
-    <nd ref="9094"/>
-    <nd ref="9095"/>
-    <nd ref="9096"/>
-    <nd ref="9097"/>
-    <nd ref="9098"/>
-    <nd ref="9099"/>
-    <nd ref="9100"/>
-    <nd ref="9101"/>
-    <nd ref="9102"/>
-    <nd ref="9103"/>
-    <nd ref="9104"/>
-    <nd ref="9105"/>
-    <nd ref="9106"/>
-    <nd ref="9107"/>
-    <nd ref="9108"/>
-    <nd ref="9086"/>
-    <nd ref="9087"/>
-    <nd ref="9138"/>
-    <nd ref="9139"/>
-    <nd ref="9140"/>
-    <nd ref="9141"/>
-    <nd ref="9142"/>
-    <nd ref="9143"/>
-    <nd ref="9144"/>
-    <nd ref="9145"/>
-    <nd ref="9146"/>
-    <nd ref="9147"/>
-    <nd ref="9148"/>
-    <nd ref="9149"/>
-    <nd ref="9150"/>
-    <nd ref="9151"/>
-    <nd ref="9152"/>
-    <nd ref="9134"/>
-    <nd ref="9135"/>
-    <nd ref="9178"/>
-    <nd ref="9179"/>
-    <nd ref="9180"/>
-    <nd ref="9181"/>
-    <nd ref="9182"/>
-    <nd ref="9183"/>
-    <nd ref="9184"/>
-    <nd ref="9174"/>
-    <nd ref="9175"/>
-    <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
-  </way>
-  <way id="16847">
-    <nd ref="9054"/>
-    <nd ref="9077"/>
-    <nd ref="9078"/>
-    <nd ref="9079"/>
-    <nd ref="9067"/>
-    <nd ref="9068"/>
-    <nd ref="9109"/>
-    <nd ref="9110"/>
-    <nd ref="9111"/>
-    <nd ref="9112"/>
-    <nd ref="9113"/>
-    <nd ref="9114"/>
-    <nd ref="9115"/>
-    <nd ref="9116"/>
-    <nd ref="9117"/>
-    <nd ref="9118"/>
-    <nd ref="9119"/>
-    <nd ref="9120"/>
-    <nd ref="9121"/>
-    <nd ref="9122"/>
-    <nd ref="9123"/>
-    <nd ref="9124"/>
-    <nd ref="9125"/>
-    <nd ref="9126"/>
-    <nd ref="9127"/>
-    <nd ref="9083"/>
-    <nd ref="9084"/>
-    <nd ref="9153"/>
-    <nd ref="9154"/>
-    <nd ref="9155"/>
-    <nd ref="9156"/>
-    <nd ref="9157"/>
-    <nd ref="9158"/>
-    <nd ref="9159"/>
-    <nd ref="9160"/>
-    <nd ref="9161"/>
-    <nd ref="9162"/>
-    <nd ref="9163"/>
-    <nd ref="9164"/>
-    <nd ref="9165"/>
-    <nd ref="9166"/>
-    <nd ref="9167"/>
-    <nd ref="9131"/>
-    <nd ref="9132"/>
-    <nd ref="9185"/>
-    <nd ref="9186"/>
-    <nd ref="9187"/>
-    <nd ref="9188"/>
-    <nd ref="9189"/>
-    <nd ref="9190"/>
-    <nd ref="9191"/>
-    <nd ref="9171"/>
-    <nd ref="9172"/>
-    <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
-  </way>
-  <way id="16852">
-    <nd ref="9274"/>
-    <nd ref="9275"/>
-    <nd ref="9288"/>
-    <nd ref="9289"/>
-    <nd ref="9290"/>
-    <nd ref="9291"/>
-    <nd ref="9292"/>
-    <nd ref="9293"/>
-    <nd ref="9294"/>
-    <nd ref="9295"/>
-    <nd ref="9284"/>
-    <nd ref="9285"/>
-    <nd ref="9314"/>
-    <nd ref="9315"/>
-    <nd ref="9316"/>
-    <nd ref="9317"/>
-    <nd ref="9318"/>
-    <nd ref="9319"/>
-    <nd ref="9320"/>
-    <nd ref="9321"/>
-    <nd ref="9322"/>
-    <nd ref="9323"/>
-    <nd ref="9324"/>
-    <nd ref="9310"/>
-    <nd ref="10906"/>
-    <nd ref="12120"/>
-    <nd ref="12343"/>
-    <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
-  </way>
-  <way id="16853">
-    <nd ref="9271"/>
-    <nd ref="9272"/>
-    <nd ref="9296"/>
-    <nd ref="9297"/>
-    <nd ref="9298"/>
-    <nd ref="9299"/>
-    <nd ref="9300"/>
-    <nd ref="9301"/>
-    <nd ref="9302"/>
-    <nd ref="9303"/>
-    <nd ref="9281"/>
-    <nd ref="9282"/>
-    <nd ref="9325"/>
-    <nd ref="9326"/>
-    <nd ref="9327"/>
-    <nd ref="9328"/>
-    <nd ref="9329"/>
-    <nd ref="9330"/>
-    <nd ref="9331"/>
-    <nd ref="9332"/>
-    <nd ref="9333"/>
-    <nd ref="9334"/>
-    <nd ref="9335"/>
-    <nd ref="9307"/>
-    <nd ref="10903"/>
-    <nd ref="12130"/>
-    <nd ref="12344"/>
-    <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
-  </way>
-  <way id="16858">
-    <nd ref="10562"/>
-    <nd ref="10555"/>
-    <nd ref="9374"/>
-    <nd ref="9375"/>
-    <nd ref="9542"/>
-    <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
-  </way>
-  <way id="16859">
-    <nd ref="10563"/>
-    <nd ref="10556"/>
-    <nd ref="9371"/>
-    <nd ref="9372"/>
-    <nd ref="9539"/>
-    <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
-  </way>
-  <way id="16863">
-    <nd ref="16860"/>
-    <nd ref="15158"/>
-    <nd ref="15193"/>
-    <nd ref="15194"/>
-    <nd ref="15195"/>
-    <nd ref="15196"/>
-    <nd ref="15197"/>
-    <nd ref="15198"/>
-    <nd ref="15199"/>
-    <nd ref="15200"/>
-    <nd ref="13837"/>
-    <nd ref="11252"/>
-    <nd ref="11253"/>
-    <nd ref="11302"/>
-    <nd ref="15453"/>
-    <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
-  </way>
-  <way id="16865">
-    <nd ref="16861"/>
-    <nd ref="15157"/>
-    <nd ref="15201"/>
-    <nd ref="15202"/>
-    <nd ref="15203"/>
-    <nd ref="15204"/>
-    <nd ref="15205"/>
-    <nd ref="15206"/>
-    <nd ref="15207"/>
-    <nd ref="15208"/>
-    <nd ref="13838"/>
-    <nd ref="11269"/>
-    <nd ref="11270"/>
-    <nd ref="11271"/>
-    <nd ref="11272"/>
-    <nd ref="11303"/>
-    <nd ref="11274"/>
-    <nd ref="11275"/>
-    <nd ref="11276"/>
-    <nd ref="15454"/>
-    <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
-  </way>
-  <way id="16867">
-    <nd ref="16322"/>
-    <nd ref="4843"/>
-    <nd ref="15083"/>
-    <nd ref="15212"/>
-    <nd ref="15213"/>
-    <nd ref="15214"/>
-    <nd ref="15215"/>
-    <nd ref="15216"/>
-    <nd ref="15217"/>
-    <nd ref="16860"/>
-    <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
-  </way>
-  <way id="16868">
-    <nd ref="16323"/>
-    <nd ref="4840"/>
-    <nd ref="15080"/>
-    <nd ref="15218"/>
-    <nd ref="15219"/>
-    <nd ref="15220"/>
-    <nd ref="15221"/>
-    <nd ref="15222"/>
-    <nd ref="15223"/>
-    <nd ref="16861"/>
-    <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
-  </way>
   <way id="10490">
     <nd ref="10485"/>
     <nd ref="10486"/>
@@ -10667,7 +10895,7 @@
     <member type="way" role="right" ref="14197"/>
     <tag k="type" v="lanelet"/>
     <tag k="subtype" v="road"/>
-    <tag k="speed_limit" v="6"/>
+    <tag k="speed_limit" v="5"/>
     <tag k="location" v="urban"/>
     <tag k="one_way" v="yes"/>
   </relation>
@@ -10686,7 +10914,7 @@
     <member type="relation" role="regulatory_element" ref="10501"/>
     <tag k="type" v="lanelet"/>
     <tag k="subtype" v="road"/>
-    <tag k="speed_limit" v="12"/>
+    <tag k="speed_limit" v="10"/>
     <tag k="location" v="urban"/>
     <tag k="one_way" v="yes"/>
   </relation>
@@ -10696,7 +10924,7 @@
     <member type="relation" role="regulatory_element" ref="10510"/>
     <tag k="type" v="lanelet"/>
     <tag k="subtype" v="road"/>
-    <tag k="speed_limit" v="12"/>
+    <tag k="speed_limit" v="10"/>
     <tag k="location" v="urban"/>
     <tag k="one_way" v="yes"/>
   </relation>
@@ -10705,7 +10933,7 @@
     <member type="way" role="right" ref="8379"/>
     <tag k="type" v="lanelet"/>
     <tag k="subtype" v="road"/>
-    <tag k="speed_limit" v="12"/>
+    <tag k="speed_limit" v="10"/>
     <tag k="location" v="urban"/>
     <tag k="one_way" v="yes"/>
     <tag k="turn_direction" v="left"/>
@@ -10716,16 +10944,25 @@
     <member type="relation" role="regulatory_element" ref="10517"/>
     <tag k="type" v="lanelet"/>
     <tag k="subtype" v="road"/>
-    <tag k="speed_limit" v="12"/>
+    <tag k="speed_limit" v="10"/>
+    <tag k="location" v="urban"/>
+    <tag k="one_way" v="yes"/>
+  </relation>
+  <relation id="8401">
+    <member type="way" role="left" ref="8400"/>
+    <member type="way" role="right" ref="8397"/>
+    <tag k="type" v="lanelet"/>
+    <tag k="subtype" v="road"/>
+    <tag k="speed_limit" v="7"/>
     <tag k="location" v="urban"/>
     <tag k="one_way" v="yes"/>
   </relation>
   <relation id="8407">
-    <member type="way" role="left" ref="16828"/>
-    <member type="way" role="right" ref="16829"/>
+    <member type="way" role="left" ref="8405"/>
+    <member type="way" role="right" ref="8406"/>
     <tag k="type" v="lanelet"/>
     <tag k="subtype" v="road"/>
-    <tag k="speed_limit" v="12"/>
+    <tag k="speed_limit" v="10"/>
     <tag k="location" v="urban"/>
     <tag k="one_way" v="yes"/>
     <tag k="turn_direction" v="left"/>
@@ -10735,7 +10972,7 @@
     <member type="way" role="right" ref="8423"/>
     <tag k="type" v="lanelet"/>
     <tag k="subtype" v="road"/>
-    <tag k="speed_limit" v="12"/>
+    <tag k="speed_limit" v="7"/>
     <tag k="location" v="urban"/>
     <tag k="one_way" v="yes"/>
     <tag k="turn_direction" v="left"/>
@@ -10756,7 +10993,7 @@
     <member type="relation" role="regulatory_element" ref="10492"/>
     <tag k="type" v="lanelet"/>
     <tag k="subtype" v="road"/>
-    <tag k="speed_limit" v="10"/>
+    <tag k="speed_limit" v="8"/>
     <tag k="location" v="urban"/>
     <tag k="one_way" v="yes"/>
     <tag k="turn_direction" v="left"/>
@@ -10766,26 +11003,44 @@
     <member type="way" role="right" ref="10972"/>
     <tag k="type" v="lanelet"/>
     <tag k="subtype" v="road"/>
-    <tag k="speed_limit" v="15"/>
+    <tag k="speed_limit" v="10"/>
+    <tag k="location" v="urban"/>
+    <tag k="one_way" v="yes"/>
+  </relation>
+  <relation id="8716">
+    <member type="way" role="left" ref="8715"/>
+    <member type="way" role="right" ref="8712"/>
+    <tag k="type" v="lanelet"/>
+    <tag k="subtype" v="road"/>
+    <tag k="speed_limit" v="10"/>
     <tag k="location" v="urban"/>
     <tag k="one_way" v="yes"/>
   </relation>
   <relation id="8751">
-    <member type="way" role="left" ref="16826"/>
-    <member type="way" role="right" ref="16827"/>
+    <member type="way" role="left" ref="8749"/>
+    <member type="way" role="right" ref="8750"/>
     <tag k="type" v="lanelet"/>
     <tag k="subtype" v="road"/>
-    <tag k="speed_limit" v="15"/>
+    <tag k="speed_limit" v="10"/>
     <tag k="location" v="urban"/>
     <tag k="one_way" v="yes"/>
     <tag k="turn_direction" v="left"/>
   </relation>
-  <relation id="8794">
-    <member type="way" role="left" ref="16824"/>
-    <member type="way" role="right" ref="16825"/>
+  <relation id="8767">
+    <member type="way" role="left" ref="8766"/>
+    <member type="way" role="right" ref="8763"/>
     <tag k="type" v="lanelet"/>
     <tag k="subtype" v="road"/>
-    <tag k="speed_limit" v="15"/>
+    <tag k="speed_limit" v="10"/>
+    <tag k="location" v="urban"/>
+    <tag k="one_way" v="yes"/>
+  </relation>
+  <relation id="8794">
+    <member type="way" role="left" ref="8792"/>
+    <member type="way" role="right" ref="8793"/>
+    <tag k="type" v="lanelet"/>
+    <tag k="subtype" v="road"/>
+    <tag k="speed_limit" v="10"/>
     <tag k="location" v="urban"/>
     <tag k="one_way" v="yes"/>
     <tag k="turn_direction" v="left"/>
@@ -10795,7 +11050,7 @@
     <member type="way" role="right" ref="8797"/>
     <tag k="type" v="lanelet"/>
     <tag k="subtype" v="road"/>
-    <tag k="speed_limit" v="15"/>
+    <tag k="speed_limit" v="10"/>
     <tag k="location" v="urban"/>
     <tag k="one_way" v="yes"/>
   </relation>
@@ -10804,7 +11059,7 @@
     <member type="way" role="right" ref="8803"/>
     <tag k="type" v="lanelet"/>
     <tag k="subtype" v="road"/>
-    <tag k="speed_limit" v="15"/>
+    <tag k="speed_limit" v="10"/>
     <tag k="location" v="urban"/>
     <tag k="one_way" v="yes"/>
     <tag k="turn_direction" v="left"/>
@@ -10814,27 +11069,83 @@
     <member type="way" role="right" ref="8813"/>
     <tag k="type" v="lanelet"/>
     <tag k="subtype" v="road"/>
-    <tag k="speed_limit" v="15"/>
+    <tag k="speed_limit" v="10"/>
     <tag k="location" v="urban"/>
     <tag k="one_way" v="yes"/>
     <tag k="turn_direction" v="left"/>
   </relation>
-  <relation id="8934">
-    <member type="way" role="left" ref="16814"/>
-    <member type="way" role="right" ref="16815"/>
+  <relation id="8849">
+    <member type="way" role="left" ref="8848"/>
+    <member type="way" role="right" ref="8845"/>
     <tag k="type" v="lanelet"/>
     <tag k="subtype" v="road"/>
-    <tag k="speed_limit" v="15"/>
+    <tag k="speed_limit" v="10"/>
+    <tag k="location" v="urban"/>
+    <tag k="one_way" v="yes"/>
+  </relation>
+  <relation id="8859">
+    <member type="way" role="left" ref="8858"/>
+    <member type="way" role="right" ref="8855"/>
+    <tag k="type" v="lanelet"/>
+    <tag k="subtype" v="road"/>
+    <tag k="speed_limit" v="10"/>
+    <tag k="location" v="urban"/>
+    <tag k="one_way" v="yes"/>
+  </relation>
+  <relation id="8876">
+    <member type="way" role="left" ref="8874"/>
+    <member type="way" role="right" ref="8875"/>
+    <tag k="type" v="lanelet"/>
+    <tag k="subtype" v="road"/>
+    <tag k="speed_limit" v="10"/>
+    <tag k="location" v="urban"/>
+    <tag k="one_way" v="yes"/>
+    <tag k="turn_direction" v="left"/>
+  </relation>
+  <relation id="8883">
+    <member type="way" role="left" ref="8882"/>
+    <member type="way" role="right" ref="8879"/>
+    <tag k="type" v="lanelet"/>
+    <tag k="subtype" v="road"/>
+    <tag k="speed_limit" v="10"/>
+    <tag k="location" v="urban"/>
+    <tag k="one_way" v="yes"/>
+  </relation>
+  <relation id="8934">
+    <member type="way" role="left" ref="8932"/>
+    <member type="way" role="right" ref="8933"/>
+    <tag k="type" v="lanelet"/>
+    <tag k="subtype" v="road"/>
+    <tag k="speed_limit" v="10"/>
+    <tag k="location" v="urban"/>
+    <tag k="one_way" v="yes"/>
+    <tag k="turn_direction" v="left"/>
+  </relation>
+  <relation id="8941">
+    <member type="way" role="left" ref="8940"/>
+    <member type="way" role="right" ref="8937"/>
+    <tag k="type" v="lanelet"/>
+    <tag k="subtype" v="road"/>
+    <tag k="speed_limit" v="10"/>
+    <tag k="location" v="urban"/>
+    <tag k="one_way" v="yes"/>
+  </relation>
+  <relation id="8944">
+    <member type="way" role="left" ref="8942"/>
+    <member type="way" role="right" ref="8943"/>
+    <tag k="type" v="lanelet"/>
+    <tag k="subtype" v="road"/>
+    <tag k="speed_limit" v="10"/>
     <tag k="location" v="urban"/>
     <tag k="one_way" v="yes"/>
     <tag k="turn_direction" v="left"/>
   </relation>
   <relation id="8951">
-    <member type="way" role="left" ref="16830"/>
-    <member type="way" role="right" ref="16831"/>
+    <member type="way" role="left" ref="8950"/>
+    <member type="way" role="right" ref="8947"/>
     <tag k="type" v="lanelet"/>
     <tag k="subtype" v="road"/>
-    <tag k="speed_limit" v="15"/>
+    <tag k="speed_limit" v="10"/>
     <tag k="location" v="urban"/>
     <tag k="one_way" v="yes"/>
   </relation>
@@ -10849,22 +11160,42 @@
     <tag k="turn_direction" v="left"/>
   </relation>
   <relation id="8999">
-    <member type="way" role="left" ref="16832"/>
-    <member type="way" role="right" ref="16833"/>
+    <member type="way" role="left" ref="8998"/>
+    <member type="way" role="right" ref="8995"/>
     <tag k="type" v="lanelet"/>
     <tag k="subtype" v="road"/>
-    <tag k="speed_limit" v="15"/>
+    <tag k="speed_limit" v="10"/>
     <tag k="location" v="urban"/>
     <tag k="one_way" v="yes"/>
   </relation>
-  <relation id="9009">
-    <member type="way" role="left" ref="16834"/>
-    <member type="way" role="right" ref="16835"/>
+  <relation id="9002">
+    <member type="way" role="left" ref="9000"/>
+    <member type="way" role="right" ref="9001"/>
     <tag k="type" v="lanelet"/>
     <tag k="subtype" v="road"/>
-    <tag k="speed_limit" v="12"/>
+    <tag k="speed_limit" v="10"/>
     <tag k="location" v="urban"/>
     <tag k="one_way" v="yes"/>
+    <tag k="turn_direction" v="left"/>
+  </relation>
+  <relation id="9009">
+    <member type="way" role="left" ref="9008"/>
+    <member type="way" role="right" ref="9005"/>
+    <tag k="type" v="lanelet"/>
+    <tag k="subtype" v="road"/>
+    <tag k="speed_limit" v="10"/>
+    <tag k="location" v="urban"/>
+    <tag k="one_way" v="yes"/>
+  </relation>
+  <relation id="9050">
+    <member type="way" role="left" ref="9048"/>
+    <member type="way" role="right" ref="9049"/>
+    <tag k="type" v="lanelet"/>
+    <tag k="subtype" v="road"/>
+    <tag k="speed_limit" v="10"/>
+    <tag k="location" v="urban"/>
+    <tag k="one_way" v="yes"/>
+    <tag k="turn_direction" v="left"/>
   </relation>
   <relation id="9057">
     <member type="way" role="left" ref="9053"/>
@@ -10875,22 +11206,89 @@
     <tag k="location" v="urban"/>
     <tag k="one_way" v="yes"/>
   </relation>
-  <relation id="9082">
-    <member type="way" role="left" ref="16846"/>
-    <member type="way" role="right" ref="16847"/>
+  <relation id="9066">
+    <member type="way" role="left" ref="9064"/>
+    <member type="way" role="right" ref="9065"/>
     <tag k="type" v="lanelet"/>
     <tag k="subtype" v="road"/>
-    <tag k="speed_limit" v="12"/>
+    <tag k="speed_limit" v="10"/>
+    <tag k="location" v="urban"/>
+    <tag k="one_way" v="yes"/>
+    <tag k="turn_direction" v="left"/>
+  </relation>
+  <relation id="9073">
+    <member type="way" role="left" ref="9072"/>
+    <member type="way" role="right" ref="9069"/>
+    <tag k="type" v="lanelet"/>
+    <tag k="subtype" v="road"/>
+    <tag k="speed_limit" v="10"/>
+    <tag k="location" v="urban"/>
+    <tag k="one_way" v="yes"/>
+  </relation>
+  <relation id="9082">
+    <member type="way" role="left" ref="9080"/>
+    <member type="way" role="right" ref="9081"/>
+    <tag k="type" v="lanelet"/>
+    <tag k="subtype" v="road"/>
+    <tag k="speed_limit" v="10"/>
+    <tag k="location" v="urban"/>
+    <tag k="one_way" v="yes"/>
+    <tag k="turn_direction" v="left"/>
+  </relation>
+  <relation id="9089">
+    <member type="way" role="left" ref="9088"/>
+    <member type="way" role="right" ref="9085"/>
+    <tag k="type" v="lanelet"/>
+    <tag k="subtype" v="road"/>
+    <tag k="speed_limit" v="10"/>
+    <tag k="location" v="urban"/>
+    <tag k="one_way" v="yes"/>
+  </relation>
+  <relation id="9130">
+    <member type="way" role="left" ref="9128"/>
+    <member type="way" role="right" ref="9129"/>
+    <tag k="type" v="lanelet"/>
+    <tag k="subtype" v="road"/>
+    <tag k="speed_limit" v="10"/>
+    <tag k="location" v="urban"/>
+    <tag k="one_way" v="yes"/>
+    <tag k="turn_direction" v="left"/>
+  </relation>
+  <relation id="9137">
+    <member type="way" role="left" ref="9136"/>
+    <member type="way" role="right" ref="9133"/>
+    <tag k="type" v="lanelet"/>
+    <tag k="subtype" v="road"/>
+    <tag k="speed_limit" v="10"/>
+    <tag k="location" v="urban"/>
+    <tag k="one_way" v="yes"/>
+  </relation>
+  <relation id="9170">
+    <member type="way" role="left" ref="9168"/>
+    <member type="way" role="right" ref="9169"/>
+    <tag k="type" v="lanelet"/>
+    <tag k="subtype" v="road"/>
+    <tag k="speed_limit" v="10"/>
+    <tag k="location" v="urban"/>
+    <tag k="one_way" v="yes"/>
+    <tag k="turn_direction" v="left"/>
+  </relation>
+  <relation id="9194">
+    <member type="way" role="left" ref="9192"/>
+    <member type="way" role="right" ref="9193"/>
+    <tag k="type" v="lanelet"/>
+    <tag k="subtype" v="road"/>
+    <tag k="speed_limit" v="10"/>
     <tag k="location" v="urban"/>
     <tag k="one_way" v="yes"/>
     <tag k="turn_direction" v="left"/>
   </relation>
   <relation id="9277">
-    <member type="way" role="left" ref="16852"/>
-    <member type="way" role="right" ref="16853"/>
+    <member type="way" role="left" ref="9276"/>
+    <member type="way" role="right" ref="9273"/>
     <tag k="type" v="lanelet"/>
     <tag k="subtype" v="road"/>
-    <tag k="speed_limit" v="12"/>
+    <tag k="speed_limit" v="10"/>
     <tag k="location" v="urban"/>
     <tag k="one_way" v="yes"/>
   </relation>
@@ -10899,10 +11297,48 @@
     <member type="way" role="right" ref="9279"/>
     <tag k="type" v="lanelet"/>
     <tag k="subtype" v="road"/>
-    <tag k="speed_limit" v="12"/>
+    <tag k="speed_limit" v="10"/>
     <tag k="location" v="urban"/>
     <tag k="one_way" v="yes"/>
     <tag k="turn_direction" v="left"/>
+  </relation>
+  <relation id="9287">
+    <member type="way" role="left" ref="9286"/>
+    <member type="way" role="right" ref="9283"/>
+    <tag k="type" v="lanelet"/>
+    <tag k="subtype" v="road"/>
+    <tag k="speed_limit" v="10"/>
+    <tag k="location" v="urban"/>
+    <tag k="one_way" v="yes"/>
+  </relation>
+  <relation id="9306">
+    <member type="way" role="left" ref="9304"/>
+    <member type="way" role="right" ref="9305"/>
+    <tag k="type" v="lanelet"/>
+    <tag k="subtype" v="road"/>
+    <tag k="speed_limit" v="10"/>
+    <tag k="location" v="urban"/>
+    <tag k="one_way" v="yes"/>
+    <tag k="turn_direction" v="left"/>
+  </relation>
+  <relation id="9338">
+    <member type="way" role="left" ref="12345"/>
+    <member type="way" role="right" ref="12347"/>
+    <tag k="type" v="lanelet"/>
+    <tag k="subtype" v="road"/>
+    <tag k="speed_limit" v="10"/>
+    <tag k="location" v="urban"/>
+    <tag k="one_way" v="yes"/>
+    <tag k="turn_direction" v="left"/>
+  </relation>
+  <relation id="9377">
+    <member type="way" role="left" ref="9376"/>
+    <member type="way" role="right" ref="9373"/>
+    <tag k="type" v="lanelet"/>
+    <tag k="subtype" v="road"/>
+    <tag k="speed_limit" v="10"/>
+    <tag k="location" v="urban"/>
+    <tag k="one_way" v="yes"/>
   </relation>
   <relation id="9501">
     <member type="way" role="left" ref="9499"/>
@@ -10920,16 +11356,26 @@
     <member type="relation" role="regulatory_element" ref="12221"/>
     <tag k="type" v="lanelet"/>
     <tag k="subtype" v="road"/>
-    <tag k="speed_limit" v="12"/>
+    <tag k="speed_limit" v="10"/>
     <tag k="location" v="urban"/>
     <tag k="one_way" v="yes"/>
+  </relation>
+  <relation id="9558">
+    <member type="way" role="left" ref="9556"/>
+    <member type="way" role="right" ref="9557"/>
+    <tag k="type" v="lanelet"/>
+    <tag k="subtype" v="road"/>
+    <tag k="speed_limit" v="10"/>
+    <tag k="location" v="urban"/>
+    <tag k="one_way" v="yes"/>
+    <tag k="turn_direction" v="left"/>
   </relation>
   <relation id="9577">
     <member type="way" role="left" ref="9576"/>
     <member type="way" role="right" ref="9573"/>
     <tag k="type" v="lanelet"/>
     <tag k="subtype" v="road"/>
-    <tag k="speed_limit" v="12"/>
+    <tag k="speed_limit" v="10"/>
     <tag k="location" v="urban"/>
     <tag k="one_way" v="yes"/>
   </relation>
@@ -11065,7 +11511,7 @@
     <member type="relation" role="regulatory_element" ref="10524"/>
     <tag k="type" v="lanelet"/>
     <tag k="subtype" v="road"/>
-    <tag k="speed_limit" v="10"/>
+    <tag k="speed_limit" v="8"/>
     <tag k="location" v="urban"/>
     <tag k="one_way" v="yes"/>
   </relation>
@@ -11074,7 +11520,7 @@
     <member type="way" role="right" ref="10566"/>
     <tag k="type" v="lanelet"/>
     <tag k="subtype" v="road"/>
-    <tag k="speed_limit" v="12"/>
+    <tag k="speed_limit" v="10"/>
     <tag k="location" v="urban"/>
     <tag k="one_way" v="yes"/>
     <tag k="turn_direction" v="left"/>
@@ -11085,18 +11531,28 @@
     <member type="relation" role="regulatory_element" ref="10547"/>
     <tag k="type" v="lanelet"/>
     <tag k="subtype" v="road"/>
-    <tag k="speed_limit" v="12"/>
+    <tag k="speed_limit" v="10"/>
+    <tag k="location" v="urban"/>
+    <tag k="one_way" v="yes"/>
+    <tag k="turn_direction" v="left"/>
+  </relation>
+  <relation id="10561">
+    <member type="way" role="left" ref="10558"/>
+    <member type="way" role="right" ref="10560"/>
+    <tag k="type" v="lanelet"/>
+    <tag k="subtype" v="road"/>
+    <tag k="speed_limit" v="10"/>
     <tag k="location" v="urban"/>
     <tag k="one_way" v="yes"/>
     <tag k="turn_direction" v="left"/>
   </relation>
   <relation id="10568">
-    <member type="way" role="left" ref="16858"/>
-    <member type="way" role="right" ref="16859"/>
+    <member type="way" role="left" ref="10565"/>
+    <member type="way" role="right" ref="10567"/>
     <member type="relation" role="regulatory_element" ref="10569"/>
     <tag k="type" v="lanelet"/>
     <tag k="subtype" v="road"/>
-    <tag k="speed_limit" v="12"/>
+    <tag k="speed_limit" v="10"/>
     <tag k="location" v="urban"/>
     <tag k="one_way" v="yes"/>
     <tag k="turn_direction" v="left"/>
@@ -11106,7 +11562,7 @@
     <member type="way" role="right" ref="10974"/>
     <tag k="type" v="lanelet"/>
     <tag k="subtype" v="road"/>
-    <tag k="speed_limit" v="12"/>
+    <tag k="speed_limit" v="10"/>
     <tag k="location" v="urban"/>
     <tag k="one_way" v="yes"/>
   </relation>
@@ -11151,11 +11607,11 @@
     <tag k="turn_direction" v="left"/>
   </relation>
   <relation id="12404">
-    <member type="way" role="left" ref="16820"/>
-    <member type="way" role="right" ref="16821"/>
+    <member type="way" role="left" ref="12401"/>
+    <member type="way" role="right" ref="12403"/>
     <tag k="type" v="lanelet"/>
     <tag k="subtype" v="road"/>
-    <tag k="speed_limit" v="15"/>
+    <tag k="speed_limit" v="10"/>
     <tag k="location" v="urban"/>
     <tag k="one_way" v="yes"/>
     <tag k="turn_direction" v="left"/>
@@ -11165,7 +11621,7 @@
     <member type="way" role="right" ref="12737"/>
     <tag k="type" v="lanelet"/>
     <tag k="subtype" v="road"/>
-    <tag k="speed_limit" v="12"/>
+    <tag k="speed_limit" v="10"/>
     <tag k="location" v="urban"/>
     <tag k="one_way" v="yes"/>
     <tag k="turn_direction" v="left"/>
@@ -11184,7 +11640,7 @@
     <member type="way" role="right" ref="13728"/>
     <tag k="type" v="lanelet"/>
     <tag k="subtype" v="road"/>
-    <tag k="speed_limit" v="8"/>
+    <tag k="speed_limit" v="7"/>
     <tag k="location" v="urban"/>
     <tag k="one_way" v="yes"/>
     <tag k="turn_direction" v="left"/>
@@ -11194,7 +11650,7 @@
     <member type="way" role="right" ref="13729"/>
     <tag k="type" v="lanelet"/>
     <tag k="subtype" v="road"/>
-    <tag k="speed_limit" v="10"/>
+    <tag k="speed_limit" v="8"/>
     <tag k="location" v="urban"/>
     <tag k="one_way" v="yes"/>
     <tag k="turn_direction" v="left"/>
@@ -11211,6 +11667,16 @@
   <relation id="14288">
     <member type="way" role="left" ref="14286"/>
     <member type="way" role="right" ref="14287"/>
+    <tag k="type" v="lanelet"/>
+    <tag k="subtype" v="road"/>
+    <tag k="speed_limit" v="5"/>
+    <tag k="location" v="urban"/>
+    <tag k="one_way" v="yes"/>
+    <tag k="turn_direction" v="left"/>
+  </relation>
+  <relation id="15226">
+    <member type="way" role="left" ref="15455"/>
+    <member type="way" role="right" ref="15457"/>
     <tag k="type" v="lanelet"/>
     <tag k="subtype" v="road"/>
     <tag k="speed_limit" v="5"/>
@@ -11274,11 +11740,11 @@
     <tag k="one_way" v="no"/>
   </relation>
   <relation id="16328">
-    <member type="way" role="left" ref="16867"/>
-    <member type="way" role="right" ref="16868"/>
+    <member type="way" role="left" ref="16325"/>
+    <member type="way" role="right" ref="16327"/>
     <tag k="type" v="lanelet"/>
     <tag k="subtype" v="road"/>
-    <tag k="speed_limit" v="3"/>
+    <tag k="speed_limit" v="5"/>
     <tag k="location" v="urban"/>
     <tag k="one_way" v="yes"/>
   </relation>
@@ -11296,7 +11762,7 @@
     <member type="way" role="right" ref="16382"/>
     <tag k="type" v="lanelet"/>
     <tag k="subtype" v="road"/>
-    <tag k="speed_limit" v="15"/>
+    <tag k="speed_limit" v="10"/>
     <tag k="location" v="urban"/>
     <tag k="one_way" v="yes"/>
     <tag k="turn_direction" v="left"/>
@@ -11306,7 +11772,7 @@
     <member type="way" role="right" ref="16567"/>
     <tag k="type" v="lanelet"/>
     <tag k="subtype" v="road"/>
-    <tag k="speed_limit" v="8"/>
+    <tag k="speed_limit" v="10"/>
     <tag k="location" v="urban"/>
     <tag k="one_way" v="yes"/>
   </relation>
@@ -11316,16 +11782,6 @@
     <tag k="type" v="lanelet"/>
     <tag k="subtype" v="road"/>
     <tag k="speed_limit" v="10"/>
-    <tag k="location" v="urban"/>
-    <tag k="one_way" v="yes"/>
-    <tag k="turn_direction" v="left"/>
-  </relation>
-  <relation id="16866">
-    <member type="way" role="left" ref="16863"/>
-    <member type="way" role="right" ref="16865"/>
-    <tag k="type" v="lanelet"/>
-    <tag k="subtype" v="road"/>
-    <tag k="speed_limit" v="5"/>
     <tag k="location" v="urban"/>
     <tag k="one_way" v="yes"/>
     <tag k="turn_direction" v="left"/>
